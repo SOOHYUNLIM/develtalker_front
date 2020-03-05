@@ -23,7 +23,7 @@ const categories = [
   {
     id: '게시판',
     children: [
-      { id: '자유게시판', icon: <PeopleIcon />, active: true },
+      { id: '소라테스트', icon: <PeopleIcon />, active: true },
       { id: '스터디 모집', icon: <DnsRoundedIcon /> },
       { id: 'Q&A', icon: <PermMediaOutlinedIcon /> },
       { id: 'Hosting', icon: <PublicIcon /> },

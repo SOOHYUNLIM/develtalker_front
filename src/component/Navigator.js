@@ -28,7 +28,7 @@ const categories = [
       { id: 'Q&A', icon: <PermMediaOutlinedIcon /> },
       { id: '유튜브 강의', icon: <PublicIcon /> },
       { id: 'Functions', icon: <SettingsEthernetIcon /> },
-      { id: 'ML Kit', icon: <SettingsInputComponentIcon /> },
+      { id: '아무게시판', icon: <SettingsInputComponentIcon /> },
     ],
   },
   {

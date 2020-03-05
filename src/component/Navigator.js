@@ -27,7 +27,7 @@ const categories = [
       { id: '스터디 모집', icon: <DnsRoundedIcon /> },
       { id: 'Q&A', icon: <PermMediaOutlinedIcon /> },
       { id: '유튜브 강의', icon: <PublicIcon /> },
-      { id: 'Functions', icon: <SettingsEthernetIcon /> },
+      { id: '바꾸자', icon: <SettingsEthernetIcon /> },
       { id: 'ML Kit', icon: <SettingsInputComponentIcon /> },
     ],
   },
